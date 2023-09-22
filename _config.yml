@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Kyle Copeland"
-  avatar : "IMG_0193.jpeg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "A student at South Alabama."
   links:
     - label: "Website"
