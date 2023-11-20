@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
 title: "Resume"
+link: file:///C:/Users/kylec/Downloads/Latex_Resume_Template.pdf
 ---
-Check out my [Resume][resume-doc] here!
-[resume-doc]:file:///C:/Users/kylec/Downloads/Latex_Resume_Template.pdf
+Check out my [Resume](resume)!
