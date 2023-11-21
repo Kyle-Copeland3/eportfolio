@@ -1,0 +1,6 @@
+---
+permalink: /Euler/
+title: "Euler"
+---
+
+
