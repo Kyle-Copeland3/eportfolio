@@ -1,6 +1,6 @@
 ---
-permalink: /Euler/
-title: "Euler"
+permalink: /euler/
+title: "euler"
 ---
-
+[euler problem](../euler.html)
 
